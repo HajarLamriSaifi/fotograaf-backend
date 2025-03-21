@@ -1,0 +1,6 @@
+@fotograaf_backend_HostAddress = http://localhost:5130
+
+GET {{fotograaf_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
